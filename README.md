@@ -1,5 +1,3 @@
-# Data-Science-Assignment
-
 # Data Science Assignment - Team Forecasting
 
 **Author:** Zhongyang Hu (zhongyang.hu.rs@gmail.com)
@@ -19,12 +17,12 @@ Introduction: This is the Jupyter Notebook for the `Data Science Assignment - Te
 - a
 
 The experimented models are:
-- ARIMA (a classici stastical model for time-series as baseline), and
-- XGBoost (a prevlently used machine learning model)
+- ARIMA (a classic statistical model for time-series as baseline), and
+- XGBoost (a prevalently used machine learning model)
 
-After experiments and validation, I decided to use XGBoost model for final forecast.
+After experiments and validation, I decided to use the XGBoost model for the final forecast.
 
-More overviews, can be viewed by clicking the > below.
+More overviews can be viewed by clicking the > below.
 
 ---
 
