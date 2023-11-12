@@ -1,4 +1,4 @@
-report_date,SI_High,SI_Low,SI_Mean,Brent_Crude_Oil_High,Brent_Crude_Oil_Low
+report_date,SI_High,SI_Mean,SI_Low,Brent_Crude_Oil_High,Brent_Crude_Oil_Low
 2017-01-02,0,0,0,57,53.58
 2017-01-09,0,0,0,56.95,53.77
 2017-01-16,0,0,0,56.55,54.65
