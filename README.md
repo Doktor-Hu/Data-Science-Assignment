@@ -9,6 +9,7 @@
 
 <br>
 
+> Please upload the `sales_data.csv` file in `../Data` Folder
 ---
 
 Introduction: This is the Jupyter Notebook for the `Data Science Assignment - Team Forecasting` project. The aim is to . The datasets used are
