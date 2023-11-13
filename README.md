@@ -10,12 +10,13 @@
 <br>
 
 > Please upload the `sales_data.csv` file in `../Data` Folder
+
 ---
 
 Introduction: This is the Jupyter Notebook for the `Data Science Assignment - Team Forecasting` project. The aim is to . The datasets used are
--  The file `sales_data.csv` with 4 time series of sales at (total, retailer_type_1, retailer_type_2 and retailer_type_3).
--  
-- a
+- The file `sales_data.csv` with 4 time series of sales at (total, retailer_type_1, retailer_type_2 and retailer_type_3).
+- [Brent Crude Oil Futures](https://en.wikipedia.org/wiki/Brent_Crude)
+- [COVID-19: Stringency Index](https://ourworldindata.org/explorers/coronavirus-data-explorer?uniformYAxis=0&hideControls=true&Interval=7-day+rolling+average&Relative+to+Population=true&Color+by+test+positivity=false&country=USA~ITA~CAN~DEU~GBR~FRA&Metric=Stringency+index)
 
 The experimented models are:
 - ARIMA (a classic statistical model for time-series as baseline), and
@@ -37,24 +38,24 @@ _Developed originally using Google CoLab._
 
 ### Notebook Structure
 
-<details><summary>click here to expand </summary>
+<details><summary>click here to check details</summary>
 
 
 Part I: Preparation and Data Exploration
 
-- Section 1: Prepare Env and Setups
+- Section 1: Prepare Environment and Setups
 
-- Section 2: Basic Overview
+- Section 2: Basic overview of the Dataframe
 
-- Section 3: Training/Validation/Testing dataset split
+- Section 3: Training/Validation/Testing Dataset Split
 
-- Section 4: Time-series Analysis
+- Section 4: Time-Series Analysis
 
 Part II: Modelling and Validation
 
-- Section 5: ARIMA as the baseline model
+- Section 5: Baseline Model: ARIMA
 
-- Section 6: XGBoost model: Experiments
+- Section 6: XGBoost Model: Experiments
 
 Part III: Forecasting
 
@@ -66,10 +67,15 @@ Part III: Forecasting
 
 ### Key Take-away Messages
 
-<details><summary>click here to expand </summary>
+<details><summary>click here to check details</summary>
 
+- ARIMA
 
-Section 7: Model Selection and Final Forecasting
+- XGBoost
+
+- XGBoost
+
+- Investigation about 
 
 </details>
 
