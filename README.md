@@ -11,9 +11,14 @@
 
 > Please upload the original `sales_data.csv` file yourself in the `../Data` Folder
 
-<br>
+<be>
 
-> Result csv can be found as `../RESULT/FORECAST_RSULT_20231108_V1.csv`
+Checklist of deliverables:
+- Jupyter notebook with analysis: `../20231108_Data-Science-Assignment_HZ-for-BOL_V5.ipynb`
+- External data used as input: `../DATA/External_Data-SI-BCOP.csv`
+- 3-5 slide presentation for business context: `../Presentation_20231108_V1.pdf`
+- The forecasts in a CSV file can be found as `../RESULT/FORECAST_RSULT_20231108_V1.csv`
+
 
 ---
 
