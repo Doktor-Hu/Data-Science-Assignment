@@ -13,7 +13,7 @@
 
 <br>
 
-> Result csv can be found in the `../RESULT` Folder
+> Result csv can be found as `../RESULT/FORECAST_RSULT_20231108_V1.csv`
 
 ---
 
