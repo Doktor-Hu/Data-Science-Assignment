@@ -9,17 +9,17 @@
 
 <br>
 
-> Please upload the `sales_data.csv` file in `../Data` Folder
+> Please upload the `sales_data.csv` file in the `../Data` Folder
 
 ---
 
-Introduction: This is the Jupyter Notebook for the `Data Science Assignment - Team Forecasting` project. The aim is to . The datasets used are
+Introduction: This Jupyter Notebook is for the `Data Science Assignment - Team Forecasting` project. The aim is to create forecasts for the upcoming 12 weeks (not included in the dataset) for all 4 levels.. The datasets used are
 - The file `sales_data.csv` with 4 time series of sales at (total, retailer_type_1, retailer_type_2 and retailer_type_3).
 - [Brent Crude Oil Futures](https://en.wikipedia.org/wiki/Brent_Crude)
 - [COVID-19: Stringency Index](https://ourworldindata.org/explorers/coronavirus-data-explorer?uniformYAxis=0&hideControls=true&Interval=7-day+rolling+average&Relative+to+Population=true&Color+by+test+positivity=false&country=USA~ITA~CAN~DEU~GBR~FRA&Metric=Stringency+index)
 
 The experimented models are:
-- ARIMA (a classic statistical model for time-series as baseline), and
+- ARIMA (a classic statistical model for time-series as a baseline model), and
 - XGBoost (a prevalently used machine learning model)
 
 After experiments and validation, I decided to use the XGBoost model for the final forecast.
@@ -45,7 +45,7 @@ Part I: Preparation and Data Exploration
 
 - Section 1: Prepare Environment and Setups
 
-- Section 2: Basic overview of the Dataframe
+- Section 2: Basic Overview of the Dataframe
 
 - Section 3: Training/Validation/Testing Dataset Split
 
@@ -69,13 +69,13 @@ Part III: Forecasting
 
 <details><summary>click here to check details</summary>
 
-- ARIMA
+- ARIMA models tend to converge towards a constant, leading to a reduced ability to capture variations effectively.
 
-- XGBoost
+- Underfitting is observed in XGBoost, and its behavior varies between single-point prediction and recurrent forecasting.
 
-- XGBoost
+- A noticeable distribution shift has been identified across the training, validation, and testing datasets, resulting in a conceptual shift within the model.
 
-- Investigation about 
+- The presence of anomalies in `retailer_type_3` during the year 2020 adds complexity to the forecasting task, warranting heightened attention.
 
 </details>
 
