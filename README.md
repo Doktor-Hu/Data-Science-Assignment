@@ -22,7 +22,7 @@ Checklist of deliverables:
 
 ---
 
-Introduction: This Jupyter Notebook is for the `Data Science Assignment - Team Forecasting` project. The aim is to create forecasts for the upcoming 12 weeks (not included in the dataset) for all 4 levels.. The datasets used are
+Introduction: This Jupyter Notebook is for the `Data Science Assignment - Team Forecasting` project. The aim is to create forecasts for the upcoming 12 weeks (not included in the dataset) for all 4 levels. The datasets used are
 - The file `sales_data.csv` with 4 time series of sales at (total, retailer_type_1, retailer_type_2 and retailer_type_3).
 - [Brent Crude Oil Futures](https://en.wikipedia.org/wiki/Brent_Crude)
 - [COVID-19: Stringency Index](https://ourworldindata.org/explorers/coronavirus-data-explorer?uniformYAxis=0&hideControls=true&Interval=7-day+rolling+average&Relative+to+Population=true&Color+by+test+positivity=false&country=USA~ITA~CAN~DEU~GBR~FRA&Metric=Stringency+index)
