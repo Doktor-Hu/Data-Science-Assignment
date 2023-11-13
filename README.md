@@ -9,7 +9,8 @@
 
 <br>
 
-> Please upload the `sales_data.csv` file in the `../Data` Folder
+> Please upload the original `sales_data.csv` file yourself in the `../Data` Folder
+> Result csv can be found in the `../RESULT` Folder
 
 ---
 
